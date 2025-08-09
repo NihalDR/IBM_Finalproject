@@ -47,8 +47,8 @@ An end-to-end machine learning solution was developed to automate the classifica
 -   **Core Language & Libraries:**
     -   Python
     -   `scikit-learn`
-    -   `pandas`
-    -   `XGBoost`
+    -   `autoai-libs`
+    -   `snapml`
     -   `ibm-watsonx-ai`
 
 ## 🚀 Project Workflow
