@@ -1,6 +1,3 @@
-# IBM_Finalproject
-Network intrusion detection
-
 # IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies
 
 This repository documents the capstone project completed during the **IBM SkillsBuild 4-Weeks Internship on AI & Cloud Technologies**. This program is a collaborative initiative by the **Edunet Foundation**, **AICTE**, and **IBM SkillsBuild**.
