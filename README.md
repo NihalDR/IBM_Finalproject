@@ -13,7 +13,6 @@ The internship's primary goal is to provide hands-on experience in emerging tech
 - [⚙️ Technology Stack](#️-technology-stack)
 - [🚀 Project Workflow](#-project-workflow)
 - [📊 Results](#-results)
-- [📁 Repository Contents](#-repository-contents)
 
 
 ## 👨‍💻 Intern Details
