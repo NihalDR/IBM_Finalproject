@@ -38,7 +38,7 @@ network activity. The goal is to build a model that can effectively secure commu
 networks by providing an early warning of malicious activities. 
 
 ### Solution Overview
-An end-to-end machine learning solution was developed to automate the classification of network intrusion class. The system uses a project's physical and financial data to predict the class it belongs to i.e anomoly or not anomoly. The final, trained model was deployed as a real-time web service on the IBM Cloud platform.
+An end-to-end machine learning solution was developed to automate the classification of network intrusion class. The system uses a project's physical and financial data to predict the class it belongs to i.e anomoly or normal. The final, trained model was deployed as a real-time web service on the IBM Cloud platform.
 
 ## ⚙️ Technology Stack
 -   **Cloud Platform:** IBM Cloud 
@@ -61,10 +61,17 @@ An end-to-end machine learning solution was developed to automate the classifica
 ## 📊 Results
 The deployed model demonstrated high accuracy in classifying infrastructure projects, proving the effectiveness of using automated AI tools for rapid development and deployment. The project successfully met all requirements for the final evaluation and submission.
 
-<img width="1920" height="1080" alt="Screenshot (543)" src="https://github.com/user-attachments/assets/de3bd361-e149-45c1-8998-46beb698756a" />
-<img width="1920" height="1080" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/f144c0e1-95a1-4d54-8ea7-1a03f4606bdd" />
-<img width="1920" height="1080" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/96b6d65a-90e2-4e60-91c7-38a160f736cd" />
-<img width="1920" height="1080" alt="Screenshot (562)" src="https://github.com/user-attachments/assets/9ced6554-342a-491b-bf13-5870049e2750" />
-<img width="1920" height="1080" alt="Screenshot (563)" src="https://github.com/user-attachments/assets/bab26089-2ff7-4b5e-ab9f-fae8d4e0418c" />
+<img width="1532" height="514" alt="Screenshot 2025-08-02 133911" src="https://github.com/user-attachments/assets/fb521f54-4d84-4f88-bce0-0d21c0f8c834" />
+<img width="1526" height="521" alt="Screenshot 2025-08-02 133940" src="https://github.com/user-attachments/assets/ede46b79-42ba-479f-9dcb-b070c27d915b" />
+<img width="986" height="457" alt="Screenshot 2025-08-02 134102" src="https://github.com/user-attachments/assets/94588ec7-2d0c-45ef-9c5c-819429ee319e" />
+<img width="1063" height="483" alt="Screenshot 2025-08-02 134119" src="https://github.com/user-attachments/assets/f17b338d-af41-4a73-8094-addbd687089e" />
+<img width="1908" height="860" alt="Screenshot 2025-08-02 142628" src="https://github.com/user-attachments/assets/f809d3e1-3328-484b-ac9f-faf9d90cbf39" />
+<img width="1765" height="838" alt="Screenshot 2025-08-02 143348" src="https://github.com/user-attachments/assets/06ecaa50-410c-4267-a444-1ff322c0794f" />
+
+
+
+
+
+
 
 
