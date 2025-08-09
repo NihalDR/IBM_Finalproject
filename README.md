@@ -7,7 +7,7 @@ The internship's primary goal is to provide hands-on experience in emerging tech
 ## 📝 Table of Contents
 - [Intern Details](#intern-details)
 - [About the Internship](#about-the-internship)
-- [Project: Intelligent Classification of PMGSY Schemes](#project-intelligent-classification-of-pmgsy-schemes)
+- [Project: Network Intrusion Detection ](#project-intelligent-classification-of-network-intrusion)
   - [Problem Statement](#problem-statement)
   - [Solution Overview](#solution-overview)
 - [⚙️ Technology Stack](#️-technology-stack)
@@ -28,7 +28,7 @@ This 4-week program focused on providing practical skills in AI and Cloud Comput
 
 Successful completion required active participation, completion of at least two courses on IBM SkillsBuild, and the submission of a final project presentation. This internship was offered with no stipend.
 
-## 💡 Project: Intelligent Classification of PMGSY Schemes
+## 💡 Project:Network Intrusion Detection 
 
 ### Problem Statement
 Create a robust network intrusion detection system (NIDS) using machine learning. The 
